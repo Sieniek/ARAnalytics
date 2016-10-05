@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         =  'ARAnalytics'
+  s.name         =  'ARAnalyticsOrigin'
   s.version      =  '4.0.0'
   s.license      =  {:type => 'MIT', :file => 'LICENSE' }
   s.homepage     =  'https://github.com/orta/ARAnalytics'
